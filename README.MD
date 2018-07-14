@@ -1,10 +1,10 @@
-#Twitter Sentiment Analytics using Apache Spark Streaming APIs and Python within a trained NaiveBayes model based on 160 millions data
+# Twitter Sentiment Analytics using Apache Spark Streaming APIs and Python within a trained NaiveBayes model based on 160 millions data
 
 In this project, I learnt about processing live data streams using Spark’s streaming APIs and Python. I trained a NaiveBayes model with the labeled 160 millions tweets data and use the model the get the sentiment analysis of real-time tweets. 
 
-###Project Setup
+### Project Setup
 
-####Installing Required Python Libraries imported in the codes
+#### Installing Required Python Libraries imported in the codes
 
 ##### Change the port in the TweetRead.py in order not to conflict with other process
 
